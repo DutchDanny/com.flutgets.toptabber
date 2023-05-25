@@ -1,0 +1,99 @@
+<h1>Licensing Agreements</h1>
+                
+
+<h3>End User License Agreement</h3>
+<h4>Simple / Short Explanation</h4>
+<p>
+You can use our Licenses to create any kind of Project, Website, Web App, Mobile App for both Personal and Commercial usage.
+The code and design files of the products can be accessed by 1 or multiple persons from your team defined in the license.
+</p>
+<p>
+There are some things you <strong>can't do:</strong>
+</p>
+<ul>
+<li>You can’t use our products to create Apps, Widgets, Templates, UI Kits or Plugins that are distributed on your website or other marketplaces and they do direct competition to us.</li>
+<li>You can’t deliver our source code to the general public through Open Source Projects without our written consent.</li>
+<li>You can’t use our products to create website/app generators.</li>
+<li>You can’t redistribute or resell our products source files as they are.</li>
+</ul>
+<h4>General</h2>
+<p>By using any Digital Product (<strong>Item</strong>) from FlutGets, you agree that this End User User License Agreement (EULA)
+is a legally binding and valid contract and agree to be bound by it.
+You agree to abide by the intellectual property laws and all of the terms and conditions of this Agreement.
+</p>
+<p>If you do not agree to be bound by this agreement, remove any <strong>Item</strong> from your computer now and,
+if applicable, promptly return to FlutGets by mail any copies of the Item and related documentation and packaging in your possession.
+</p>
+<h4>License Period</h2>
+<p>
+A License is for the life time. That means, once you buy it, you can use the *Item* forever within the restrictions described
+in this document.
+</p>
+<h4>License Definitions</h2>
+<p>
+<strong>Item</strong> is the product created by FlutGets that comes with Flutter & Dart but might also include HTML, CSS, JS,
+or other source code files available to the Person after purchasing any of our licenses.
+</p>
+<p>
+<strong>Person</strong> is the individual who has purchased a License.
+</p>
+<p>
+<strong>End Product</strong> is any artifact (flutter created software) produced that incorporates the Item or derivatives of the Item.
+</p>
+<p>
+<strong>End User</strong> is a user of an End Product.
+</p>
+<p>
+<strong>Client</strong> is an individual or company that receives custom services directly from the Person, produced specifically for
+that individual or company.
+</p>
+<h4>About the Source Code</h2>
+<p>
+FlutGets sells the source code. So, you can completely change it based on your requirements. Our items use many libraries,
+which are free and open source. If you need the source code of any library, you can just get it from its repository.
+</p>
+<h2>FlutGets License</h2>
+<ol>
+<li>
+The FlutGets License grants you an ongoing, non-exclusive, worldwide license to use the digital work (<strong>Item</strong>).
+</li>
+<li>
+The License grants permission up to 10 (ten) persons to access and use the Item.
+</li>
+<li>
+You <strong>can:</strong>
+<ul>
+<li>Create multiple End Products like Personals apps, programs or websites for you or your company. The End Products can be used in Internal/Intranet apps.</li>
+<li>Create multiple End Products where the end user is charged with a monthly/annually subscription plan (SaaS - Software as a Service).</li>
+<li>Create multiple End Products for multiple clients where the End Products can be sold to those clients for a one-time fee.</li>
+<li>Create multiple End Products for your University/School.</li>
+<li>Modify, change or manipulate the Item. You can combine the Item with other works and make a derivative work from it. Change the colors, elements, typography, and images. The resulting works are subject to the terms of this license.</li>
+</ul>
+</li>
+<li>
+You <strong>can't:</strong>
+<ul>
+<li>Use the Item to create a "website/mobile/app builder" where End Users can build their own websites using the Item, derivatives of the Item, or parts of the Item.</li>
+<li>You can't use the Item in any application allowing an End User to customize a digital work to their specific needs, such as an "on-demand", "made to order" or "build it yourself" application.</li>
+<li>Re-distribute the Item as stock, in a tool or template, or its source files.</li>
+<li>Create a Widget, App,Template, UI Kit or Plugin using the Item and make it available for sale or free.<br /><small>For example, You can't purchase an App template, convert it to a IOS or Android theme and sell or give it to more than one client.</small> </li>
+<li>Bundle the Item with other items, and even if you modify the Item. You can't re-distribute or make available the Item as-is or with superficial modifications.</li>
+</ul>
+</li>
+<li>There can be different components in some of our Items that can have a separate License from this one, and other license terms may apply to that specific component. Usually, those components come with a Free and Open Source MIT License.</li>
+<li>This license applies in conjunction with the FlutGets Terms and Conditions (https://flutgets.com/terms). If there are any inconsistencies between this license and the Terms and Conditions, this license will apply to the extent necessary to resolve the inconsistency.</li>
+<li>FlutGets can terminate this license if you violate it. If that happens, you must stop making copies of or distributing the End Product until you remove the Item from it.</li>
+<li>FlutGets retains ownership of the Item but grants you the license on these terms. This license is between FlutGets and you.</li>
+</ol>
+<h4>Legal Responsibility</h4>
+<p>
+Under no circumstances shall FlutGets (https://flutgets.com/) team be liable for any direct, indirect, special, incidental or
+consequential damages, including, but not limited to, loss of data or profit, arising out of the use, or the inability to use,
+the Items and other materials from our website, even if FlutGets or an authorized representative has been advised of the possibility
+of such damages. If your use of the Items and materials from this site results in the need for servicing, repair or correction of
+equipment or data, you assume any costs thereof.
+</p>
+<p>
+FlutGets will not be responsible for any outcome that may occur during the course of usage of our resources.
+We reserve the rights to change prices and revise the resources usage policy in any moment.
+</p>
